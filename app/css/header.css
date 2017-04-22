@@ -250,7 +250,7 @@
   font-family: "Myriad Pro";
   font-style: italic;
   font-weight: 400;
-  src: url("../fonts/MyriadPro/MyriadProRegular/MyriadProRegular.eot?#iefix") format("embedded-opentype"), url("../fonts/MyriadPro/MyriadProRegular/MyriadProRegular.woff") format("woff"), url("../fonts/MyriadPro/MyriadProRegular/MyriadProRegular.ttf") format("truetype"), url("../fonts/MyriadPro/MyriadProRegular/MyriadProRegular.svg#Myriad Pro") format("svg"); }
+  src: url("../fonts/MyriadPro/MyriadProRegular/MyriadProReg.eot?#iefix") format("embedded-opentype"), url("../fonts/MyriadPro/MyriadProRegular/MyriadProReg.woff") format("woff"), url("../fonts/MyriadPro/MyriadProRegular/MyriadProReg.ttf") format("truetype"), url("../fonts/MyriadPro/MyriadProRegular/MyriadProReg.svg#Myriad Pro") format("svg"); }
 
 @font-face {
   font-family: "Novito Nova";
